@@ -1,0 +1,6 @@
+{
+  "name": "max9ja",
+  "description": "max9ja - Your premier digital wallet, VTU airtime, data, and bill payment dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
